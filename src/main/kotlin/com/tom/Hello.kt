@@ -5,11 +5,14 @@ fun main() {
 //    Human().Hello()
     val h = Human()
     h.hello()
-
+    val age:Int =19;
+    var weight=66.5;
+    var name :String;
+    name = "Hank";
 }
 
 class Human{
     fun hello(){
-        println("hello kotlin2")
+        println("hello kotlin3")
     }
 }
